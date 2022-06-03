@@ -19,7 +19,7 @@ const Home = ({tweets}:Props) => {
   return (
     <div className=" mx-auto lg:max-w-6xl max-h-screen overflow-hidden">
       <Head>
-        <title>Twitter-clone</title>
+        <title>Twitter-clone-2.0</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Toaster />
